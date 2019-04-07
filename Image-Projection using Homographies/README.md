@@ -3,10 +3,6 @@ Programming Assignment for Robotics
 
 
 
-# Demo
-
-
-
 
 
 # Credits
