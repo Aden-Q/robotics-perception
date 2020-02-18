@@ -11,8 +11,8 @@ https://www.coursera.org/learn/robotics-perception?specialization=robotics
 
 +   [Dolly Zoom](./Dolly-Zoom)
 +   [Image Projection](./Image\ Projection)
-+   [Image Projection Using Homographies](./Image-Projection\ using\ Homographies)
-+   [Structure from Motion](Structure\ from\ Motion)
++   [Image Projection Using Homographies](./Image-Projection using Homographies)
++   [Structure from Motion](./Structure from Motion)
 
 
 
