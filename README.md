@@ -10,7 +10,7 @@ https://www.coursera.org/learn/robotics-perception?specialization=robotics
 ## Table of contents
 
 +   [Dolly Zoom](./Dolly-Zoom)
-+   [Image Projection](./Image\ Projection)
++   [Image Projection](./Image Projection)
 +   [Image Projection Using Homographies](./Image-Projection using Homographies)
 +   [Structure from Motion](./Structure from Motion)
 
